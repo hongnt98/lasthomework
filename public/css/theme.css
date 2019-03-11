@@ -1,0 +1,43 @@
+#header {
+    background: #443b31;
+}
+
+#footer {
+    padding: 30px 0;
+    border-top: 10px solid #ded6d4;
+    background: #e7e1de;
+    color: #555;
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.content-main .container {
+    padding: 50px 0;
+}
+
+#title {
+    float: left;
+    padding: 30px 0;
+    font-size: 3em;
+    font-weight: 700;
+    line-height: 50px;
+}
+
+#title a:link,
+#title a:visited {
+    color: #e9e5e0;
+}
+
+#description {
+    margin: 35px 0 0 40px;
+    float: left;
+    color: #796957;
+    font-size: 1.4em;
+    font-weight: 700;
+    line-height: 50px;
+}
+
